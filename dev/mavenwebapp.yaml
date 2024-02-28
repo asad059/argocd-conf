@@ -13,6 +13,6 @@ spec:
     spec:
       containers:
       - name: mavenwebapp
-        image: asad059/maven-app:1
+        image: asad059/maven-app:2
         ports:
         - containerPort: 8080
